@@ -6,6 +6,6 @@
 
 ![Will metaphor refantazio](static/MD/metaphor-refantazio.gif)
 
-### I am a big aviation fan, railroad enjoyer, and a silly game developer
+### I am a big aviation fan, railroad enjoyer, and a silly developer
 
 </div>
