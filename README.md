@@ -1,8 +1,6 @@
 <div align="center">
 
-# MARKALMAX
-
-### Hi, I am markalmax aka Mohamed Elshazly
+### Hi, I am markalmax
 
 ![Will metaphor refantazio](static/MD/metaphor-refantazio.gif)
 
